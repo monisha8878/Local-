@@ -9,7 +9,6 @@ It’s a simple static site that helped me understand the basics of web structur
 
 - Basic HTML structure (`<html>`, `<head>`, `<body>`, etc.)
 - Using tags like `<div>`, `<p>`, `<a>`, `<img>`, and lists
-- Applying inline and external CSS
 - Structuring a clean and readable layout
 - Linking multiple HTML pages
 
